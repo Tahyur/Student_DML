@@ -4,9 +4,9 @@ use stud\StudentDB;
 
 $stud = array();
 
-require_once '../../studentPDO/Database/database.php';
-require_once '../../studentPDO/Model/Student.php';
-require_once '../../studentPDO/Model/StudentDB.php';
+require_once '../../Student/Database/database.php';
+require_once '../../Student/Model/Student.php';
+require_once '../../Student/Controller/StudentDB.php';
 
 
 function getPrograms()

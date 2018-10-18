@@ -1,8 +1,8 @@
 <?php
 use stud\StudentDB;
 
-require_once '../../studentPDO/Database/database.php';
-require_once '../../studentPDO/Model/StudentDB.php';
+require_once '../../Student/Database/database.php';
+require_once '../../Student/Controller/StudentDB.php';
 
 
 $id = $_POST['id'];

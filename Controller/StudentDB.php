@@ -7,7 +7,7 @@
  */
 
 namespace stud;
-require_once "../../studentPDO/Database/database.php";
+require_once "../../Student/Database/database.php";
 
 class StudentDB
 {

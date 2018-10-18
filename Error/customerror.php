@@ -1,4 +1,4 @@
-<?php require '../../studentPDO/Database/database.php' ?>
+<?php require '../../Student/Database/database.php' ?>
 <html>
 <head></head>
 <body>
